@@ -303,8 +303,8 @@ let exportedConfig = withSentryConfig(
     },
   },
   {
-    org: 'open-collective',
-    project: 'oc-frontend',
+    org: 'qpayee',
+    project: 'qpayee-frontend',
     authToken: process.env.SENTRY_AUTH_TOKEN,
     silent: true,
   },

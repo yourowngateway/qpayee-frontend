@@ -148,7 +148,7 @@
     "@radix-ui/react-focus-scope": "^1.0.4"
   },
   "scripts": {
-    "build": "npm-run-all build:updates build:next build:server",
+    "build": "NODE_OPTIONS=--max-old-space-size=4096 npm-run-all build:updates build:next build:server",
     "build:e2e": "cross-env NODE_ENV=development OC_ENV=e2e npm run build",
     "build:clean": "shx rm -rf dist .next",
     "build:components": "npm run publish-components -- --build-only",

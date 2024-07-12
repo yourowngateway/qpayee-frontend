@@ -196,7 +196,7 @@ class CreateFundForm extends React.Component {
                           }}
                           as={StyledInputGroup}
                           {...inputProps}
-                          prepend="opencollective.com/"
+                          prepend="qpayee.com/"
                           placeholder={placeholders.slug}
                         />
                       )}

@@ -13,7 +13,7 @@ const isValidS3ImageUrl = (parsedURL, isProd) => {
 };
 
 const isValidRESTApiUrl = (parsedURL, isProd) => {
-  const expectedRestApiHostname = `rest${isProd ? '' : '-staging'}.opencollective.com`;
+  const expectedRestApiHostname = `rest${isProd ? '' : '-staging'}.qpayee.com`;
   return parsedURL.hostname === expectedRestApiHostname && /\/v2\/[^/]+\/transactions\.csv/.test(parsedURL.pathname);
 };
 
@@ -27,7 +27,7 @@ async function downloadFileHandler(req, res) {
   }
 
   const hostname = req.get('original-hostname') || req.hostname;
-  const isProd = hostname === 'opencollective.com';
+  const isProd = hostname === 'qpayee.com';
   let parsedURL;
   try {
     parsedURL = new URL(url);

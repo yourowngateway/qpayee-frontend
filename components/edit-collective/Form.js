@@ -374,7 +374,7 @@ class EditCollectiveForm extends React.Component {
             {
               previousHandle: this.props.collective.slug,
               newHandle: collective.slug,
-              exampleUrl: `https://opencollective.com/${this.props.collective.slug}`,
+              exampleUrl: `https://qpayee.com/${this.props.collective.slug}`,
             },
           ),
         )
@@ -467,7 +467,7 @@ class EditCollectiveForm extends React.Component {
               </Link>
 
               <StyledLink
-                href="https://docs.opencollective.com/help/financial-contributors/organizations/gift-cards#faq"
+                href="https://docs.qpayee.com/help/financial-contributors/organizations/gift-cards#faq"
                 openInNewTab
               >
                 <InfoCircle size="1em" />
@@ -657,7 +657,7 @@ class EditCollectiveForm extends React.Component {
         },
         {
           name: 'slug',
-          pre: 'https://opencollective.com/',
+          pre: 'https://qpayee.com/',
           placeholder: '',
           maxLength: 255,
           when: () => collective.type !== EVENT,

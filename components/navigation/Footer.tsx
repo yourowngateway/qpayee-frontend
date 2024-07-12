@@ -35,7 +35,7 @@ const SocialLinks = ({ className }: { className?: string }) => {
         <Twitter size={16} />
       </SocialLink>
       <SocialLink
-        href="https://mastodon.opencollective.com/@opencollective"
+        href="https://mastodon.qpayee.com/@opencollective"
         rel="me"
         aria-label="Open Collective Mastodon link"
       >
@@ -44,7 +44,7 @@ const SocialLinks = ({ className }: { className?: string }) => {
       <SocialLink href="https://github.com/opencollective" rel="me" aria-label="Open Collective Github link">
         <Github size={16} />
       </SocialLink>
-      <SocialLink href="https://discord.opencollective.com" aria-label="Open Collective Discord link">
+      <SocialLink href="https://discord.qpayee.com" aria-label="Open Collective Discord link">
         <Discord size={16} />
       </SocialLink>
       <SocialLink href="/contact" aria-label="Contact Open Collective">

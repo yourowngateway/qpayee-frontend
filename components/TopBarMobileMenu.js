@@ -161,7 +161,7 @@ const TopBarMobileMenu = ({ closeMenu, useDashboard, onHomeRoute }) => {
                 {state.viewCompanyMenu && (
                   <Box as="ul" my={2} pl="12px">
                     <SubListItem>
-                      <a href="https://blog.opencollective.com/" onClick={closeMenu}>
+                      <a href="https://blog.qpayee.com/" onClick={closeMenu}>
                         <FormattedMessage id="company.blog" defaultMessage="Blog" />
                       </a>
                     </SubListItem>
@@ -204,7 +204,7 @@ const TopBarMobileMenu = ({ closeMenu, useDashboard, onHomeRoute }) => {
             background="#F7F8FA"
             justifyContent="space-between"
           >
-            <StyledLink href="https://blog.opencollective.com/" openInNewTab onClick={closeMenu}>
+            <StyledLink href="https://blog.qpayee.com/" openInNewTab onClick={closeMenu}>
               <StyledRoundButton size={40}>
                 <Blog size={17} color="#9D9FA3" />
               </StyledRoundButton>
@@ -219,12 +219,12 @@ const TopBarMobileMenu = ({ closeMenu, useDashboard, onHomeRoute }) => {
                 <Github size={17} color="#9D9FA3" />
               </StyledRoundButton>
             </StyledLink>
-            <StyledLink href="https://discord.opencollective.com" openInNewTab onClick={closeMenu}>
+            <StyledLink href="https://discord.qpayee.com" openInNewTab onClick={closeMenu}>
               <StyledRoundButton size={40}>
                 <Discord size={17} color="#9D9FA3" />
               </StyledRoundButton>
             </StyledLink>
-            <StyledLink href="mailto:info@opencollective.com" openInNewTab onClick={closeMenu}>
+            <StyledLink href="mailto:info@qpayee.com" openInNewTab onClick={closeMenu}>
               <StyledRoundButton size={40}>
                 <Mail size={19} color="#9D9FA3" />
               </StyledRoundButton>

@@ -177,7 +177,7 @@ export function SubmittedExpense(props: SubmittedExpenseProps) {
               <FormattedMessage defaultMessage="Submit your tax form." id="D5d2Bp" />{' '}
               <StyledLink
                 className="whitespace-nowrap"
-                href="https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information"
+                href="https://docs.qpayee.com/help/expenses-and-getting-paid/tax-information"
                 openInNewTab
               >
                 <FormattedMessage id="ContributeCard.SeeMore" defaultMessage="See More" />

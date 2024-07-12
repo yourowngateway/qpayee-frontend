@@ -156,7 +156,7 @@ export const FiscalHostOCFTransition = ({ collective }) => {
             <p>
               We have emailed your contributors letting them know that their contributions have been paused and that
               they may be invited to reactivate them later. You can learn more about this{' '}
-              <StyledLink openInNewTab href="https://blog.opencollective.com/fiscal-host-transition/">
+              <StyledLink openInNewTab href="https://blog.qpayee.com/fiscal-host-transition/">
                 here
               </StyledLink>
               .
@@ -231,7 +231,7 @@ export const FiscalHostOCFTransition = ({ collective }) => {
                   resources from other mission-aligned fiscal sponsor networks
                 </StyledLink>
                 . Open Collective Inc. has also published and is actively maintaining{' '}
-                <StyledLink openInNewTab href="https://blog.opencollective.com/fiscal-hosting-options/">
+                <StyledLink openInNewTab href="https://blog.qpayee.com/fiscal-hosting-options/">
                   a list of fiscal host organizations that may be willing to host your Collective
                 </StyledLink>
                 .
@@ -298,12 +298,12 @@ export const FiscalHostOCFTransition = ({ collective }) => {
               Collective, including hosting your project yourself independently. Read more about{' '}
               <StyledLink
                 openInNewTab
-                href="https://docs.opencollective.com/help/independent-collectives/about-independent-collectives"
+                href="https://docs.qpayee.com/help/independent-collectives/about-independent-collectives"
               >
                 independent collectives
               </StyledLink>{' '}
               and{' '}
-              <StyledLink openInNewTab href="https://docs.opencollective.com/help/fiscal-hosts/create-a-fiscal-host">
+              <StyledLink openInNewTab href="https://docs.qpayee.com/help/fiscal-hosts/create-a-fiscal-host">
                 starting a fiscal host organization
               </StyledLink>
               .

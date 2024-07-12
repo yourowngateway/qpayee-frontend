@@ -65,13 +65,13 @@ const learningChannels = [
   {
     id: 'discord',
     name: 'Discord',
-    link: 'https://discord.opencollective.com',
+    link: 'https://discord.qpayee.com',
     desktopItemOrder: 2,
   },
   {
     id: 'documentation',
     name: 'Documentation',
-    link: 'https://docs.opencollective.com',
+    link: 'https://docs.qpayee.com',
     desktopItemOrder: 1,
   },
   {
@@ -83,19 +83,19 @@ const learningChannels = [
   {
     id: 'blog',
     name: 'Blog',
-    link: 'https://blog.opencollective.com',
+    link: 'https://blog.qpayee.com',
     desktopItemOrder: 3,
   },
   {
     id: 'openFinances',
     name: 'Open Finances',
-    link: 'https://opencollective.com/opencollective',
+    link: 'https://qpayee.com/opencollective',
     desktopItemOrder: 5,
   },
   {
     id: 'openCompany',
     name: 'Open Company',
-    link: 'https://opencollective.com/opencollective',
+    link: 'https://qpayee.com/opencollective',
     desktopItemOrder: 6,
   },
 ];

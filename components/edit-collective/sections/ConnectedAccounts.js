@@ -36,7 +36,7 @@ const ConnectedAccounts = props => {
           id="5thSOv"
           values={{
             Link: getI18nLink({
-              href: 'https://docs.opencollective.com/help/fiscal-hosts/fiscal-host-settings/connected-accounts',
+              href: 'https://docs.qpayee.com/help/fiscal-hosts/fiscal-host-settings/connected-accounts',
               openInNewTab: true,
             }),
           }}

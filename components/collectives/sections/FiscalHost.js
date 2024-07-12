@@ -93,13 +93,13 @@ const featuredHosts = [
     id: 'OSC',
     name: 'Open Source Collective',
     collectivePageLink: '/opensource',
-    imageUrl: 'https://images.opencollective.com/opensource/426badd/logo/256.png',
+    imageUrl: 'https://images.qpayee.com/opensource/426badd/logo/256.png',
   },
   {
     id: 'OCE',
     name: 'Open Collective Europe',
     collectivePageLink: '/europe',
-    imageUrl: 'https://images.opencollective.com/europe/019a512/logo/256.png',
+    imageUrl: 'https://images.qpayee.com/europe/019a512/logo/256.png',
   },
 ];
 
@@ -315,7 +315,7 @@ const FiscalHost = () => {
                 </P>
               </Box>
             </Container>
-            <StyledLink openInNewTab href="https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host">
+            <StyledLink openInNewTab href="https://docs.qpayee.com/help/fiscal-hosts/become-a-fiscal-host">
               <StyledButton
                 my={2}
                 ml={[null, 3]}

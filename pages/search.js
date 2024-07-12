@@ -492,7 +492,7 @@ class SearchPage extends React.Component {
                             values={{
                               Link: getI18nLink({
                                 openInNewTab: true,
-                                href: 'https://opencollective.com/help',
+                                href: 'https://qpayee.com/help',
                               }),
                             }}
                           />
@@ -507,7 +507,7 @@ class SearchPage extends React.Component {
                       values={{
                         SupportLink: I18nSupportLink,
                         chatLink: (
-                          <StyledLink href="https://discord.opencollective.com/" openInNewTab>
+                          <StyledLink href="https://discord.qpayee.com/" openInNewTab>
                             Discord
                           </StyledLink>
                         ),
@@ -543,7 +543,7 @@ class SearchPage extends React.Component {
                     id="7ZWOtM"
                     values={{
                       Link: getI18nLink({
-                        href: 'https://opencollective.com/help',
+                        href: 'https://qpayee.com/help',
                         openInNewTab: true,
                       }),
                     }}

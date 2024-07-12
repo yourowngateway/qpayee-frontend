@@ -99,10 +99,7 @@ const Tiers = ({ collective, isLegacyOCFDuplicatedAccount }) => {
             </Span>
           </P>
           <P mt={3}>
-            <StyledLink
-              href="https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals"
-              openInNewTab
-            >
+            <StyledLink href="https://docs.qpayee.com/help/collectives/collective-settings/tiers-goals" openInNewTab>
               <FormattedMessage defaultMessage="Learn more about tiers" id="108gPp" />.
             </StyledLink>
           </P>
@@ -117,7 +114,7 @@ const Tiers = ({ collective, isLegacyOCFDuplicatedAccount }) => {
             <div>
               <p>You can’t make any changes to the tiers since this is a limited account.</p>
               <p>
-                <StyledLink href="https://blog.opencollective.com/fiscal-host-transition/" openInNewTab>
+                <StyledLink href="https://blog.qpayee.com/fiscal-host-transition/" openInNewTab>
                   Learn more
                 </StyledLink>
               </p>

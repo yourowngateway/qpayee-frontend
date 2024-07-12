@@ -183,7 +183,7 @@ const ForCollectiveCard = () => {
                   values={{
                     Fee: msg => <FeeDataNoWrap>{msg}</FeeDataNoWrap>,
                     FiscalHostLink: getI18nLink({
-                      href: 'https://opencollective.com/fiscal-hosting',
+                      href: 'https://qpayee.com/fiscal-hosting',
                       openInNewTab: true,
                     }),
                   }}

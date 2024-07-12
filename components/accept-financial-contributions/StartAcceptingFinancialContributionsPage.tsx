@@ -124,7 +124,7 @@ export default function StartAcceptingFinancialContributionsPage(props: StartAcc
             <StyledLink
               buttonSize="tiny"
               buttonStyle="secondary"
-              href="https://opencollective.com/fiscal-hosting"
+              href="https://qpayee.com/fiscal-hosting"
               openInNewTab
             >
               <FormattedMessage defaultMessage="Learn more" id="TdTXXf" />
@@ -217,7 +217,7 @@ export default function StartAcceptingFinancialContributionsPage(props: StartAcc
         <StyledLink
           buttonSize="medium"
           buttonStyle="primary"
-          href="https://opencollective.com/fiscal-hosting"
+          href="https://qpayee.com/fiscal-hosting"
           openInNewTab
         >
           <FormattedMessage id="ContributeCard.ReadMore" defaultMessage="Read more" />

@@ -40,7 +40,7 @@ const getBaseApiUrl = (apiVersion, internal = false) => {
     }
   }
 
-  return process.env.API_URL || 'https://api.opencollective.com';
+  return process.env.API_URL || 'https://api.qpayee.com';
 };
 
 /**

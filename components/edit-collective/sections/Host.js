@@ -447,7 +447,7 @@ class Host extends React.Component {
                 defaultMessage="Simply connect a bank account for a single Collective. You will be responsible for accounting, taxes, payments, and liability."
               />
               &nbsp;
-              <StyledLink href="https://docs.opencollective.com/help/independent-collectives" openInNewTab>
+              <StyledLink href="https://docs.qpayee.com/help/independent-collectives" openInNewTab>
                 <FormattedMessage id="moreInfo" defaultMessage="More info" />
               </StyledLink>
               {selectedOption === 'selfHost' && LoggedInUser && (
@@ -507,7 +507,7 @@ class Host extends React.Component {
                 defaultMessage="Select or create your own Fiscal Host, which you manage to hold funds for multiple Collectives, to hold funds and do associated admin for this Collective."
               />
               &nbsp;
-              <StyledLink href="https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host" openInNewTab>
+              <StyledLink href="https://docs.qpayee.com/help/fiscal-hosts/become-a-fiscal-host" openInNewTab>
                 <FormattedMessage id="moreInfo" defaultMessage="More info" />
               </StyledLink>
               {selectedOption === 'ownHost' && LoggedInUser && (

@@ -39,7 +39,7 @@ const ResetPasswordCompleted = ({ LoggedInUser, loadingLoggedInUser }) => {
                 defaultMessage="<Link>Learn more</Link> about our login system."
                 values={{
                   Link: getI18nLink({
-                    href: 'https://docs.opencollective.com/help/product/log-in-system',
+                    href: 'https://docs.qpayee.com/help/product/log-in-system',
                     openInNewTab: true,
                   }),
                 }}

@@ -3,7 +3,7 @@ import LoggedInUser from '../../lib/LoggedInUser';
 export const newLoggedInUser = new LoggedInUser({
   __typename: 'UserDetails',
   id: 4829,
-  email: 'benjamin+2@opencollective.com',
+  email: 'benjamin+2@qpayee.com',
   image: 'https://opencollective-staging.s3.us-west-1.amazonaws.com/550ac070-e0f8-11e9-9d4c-e9c71c24ba70.jpg',
   isLimited: null,
   CollectiveId: 4469,
@@ -13,7 +13,7 @@ export const newLoggedInUser = new LoggedInUser({
     name: 'Benjamin Piouffle',
     type: 'USER',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/34c2aa0/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/34c2aa0/avatar.png',
     settings: {},
     currency: 'USD',
     isDeletable: false,
@@ -31,7 +31,7 @@ export const newLoggedInUser = new LoggedInUser({
 export const loggedInUser = new LoggedInUser({
   __typename: 'UserDetails',
   id: 4829,
-  email: 'benjamin+2@opencollective.com',
+  email: 'benjamin+2@qpayee.com',
   image: 'https://opencollective-staging.s3.us-west-1.amazonaws.com/550ac070-e0f8-11e9-9d4c-e9c71c24ba70.jpg',
   isLimited: null,
   CollectiveId: 4469,
@@ -41,7 +41,7 @@ export const loggedInUser = new LoggedInUser({
     name: 'Benjamin Piouffle',
     type: 'USER',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/34c2aa0/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/34c2aa0/avatar.png',
     settings: {
       VAT: {
         number: 'FR57843373887',
@@ -107,7 +107,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/openfoodfacts-server/9260e69/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/openfoodfacts-server/9260e69/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -134,7 +134,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/octobox/d887924/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/octobox/d887924/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -169,7 +169,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/duplicati/865b500/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/duplicati/865b500/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -195,7 +195,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/eslint/96b09dc/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/eslint/96b09dc/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -229,7 +229,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/ui-avatars/e118efd/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/ui-avatars/e118efd/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -276,7 +276,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/osca/bda5c2e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/osca/bda5c2e/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -309,7 +309,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/jest/2fa74a8/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/jest/2fa74a8/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -336,7 +336,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/curl/e251c86/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/curl/e251c86/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -388,7 +388,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/sindresorhus/6b692b1/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/sindresorhus/6b692b1/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -415,7 +415,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/donut/d656a99/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/donut/d656a99/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -450,7 +450,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/codeforfrance/7a7ad35/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/codeforfrance/7a7ad35/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -483,7 +483,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/core-js/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/core-js/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -510,7 +510,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/democracyearth/5f6a81b/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/democracyearth/5f6a81b/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -539,7 +539,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/gatsby/87cfe61/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/gatsby/87cfe61/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -565,7 +565,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/collectif-vietnam-dioxine/9ef8dba/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/collectif-vietnam-dioxine/9ef8dba/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -591,7 +591,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/boostnoteio/3ad1b42/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/boostnoteio/3ad1b42/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -618,7 +618,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollectiveparis/ebbdc59/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollectiveparis/ebbdc59/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -646,7 +646,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/data_for_good/e6c5fa0/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/data_for_good/e6c5fa0/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -672,7 +672,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/nerves-project/ba12284/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/nerves-project/ba12284/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -699,7 +699,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/styled-components/fab37df/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/styled-components/fab37df/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -726,7 +726,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/webpack/c517443/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/webpack/c517443/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -793,7 +793,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/storybook/7bb2ebe/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/storybook/7bb2ebe/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -819,7 +819,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/mastodon/6880126/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/mastodon/6880126/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -846,7 +846,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/bundlephobia/08cfc1c/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/bundlephobia/08cfc1c/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -881,7 +881,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/validatorjs/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/validatorjs/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -908,7 +908,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/engineering/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/engineering/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -942,7 +942,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/witchcraft/3a4fa4f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/witchcraft/3a4fa4f/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -975,7 +975,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/engineering/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/engineering/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1009,7 +1009,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/altair/108e97f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/altair/108e97f/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1056,7 +1056,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/polished/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/polished/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1081,7 +1081,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/incognito-407f0050/avatar.png',
+        imageUrl: 'https://images-staging.qpayee.com/incognito-407f0050/avatar.png',
         categories: [],
         host: null,
         settings: {},
@@ -1101,7 +1101,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/xr-belgium/56fdfdc/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/xr-belgium/56fdfdc/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1127,7 +1127,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/newopensourcecollective/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/newopensourcecollective/logo.png',
         categories: [],
         host: null,
         settings: {},
@@ -1147,7 +1147,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opensource-collective/9137b02/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opensource-collective/9137b02/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1175,13 +1175,13 @@ export const loggedInUser = new LoggedInUser({
           editor: 'html',
           twitter: {
             thankDonation:
-              'Hi $backer thank you for supporting the Open Source Collective! https://opencollective.com/opensource',
+              'Hi $backer thank you for supporting the Open Source Collective! https://qpayee.com/opensource',
             thankDonationEnabled: true,
             monthlyThankDonationsPlural:
-              'Thanks to our $backerCount backers and sponsors $backerList for supporting our collective! https://opencollective.com/opensource',
+              'Thanks to our $backerCount backers and sponsors $backerList for supporting our collective! https://qpayee.com/opensource',
             monthlyThankDonationsEnabled: true,
             monthlyThankDonationsSingular:
-              'Thank you $backer for your continued support of our collective! https://opencollective.com/opensource',
+              'Thank you $backer for your continued support of our collective! https://qpayee.com/opensource',
           },
           isHostCollective: true,
           superCollectiveTag: 'open source',
@@ -1202,7 +1202,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/ant-design/6f1eb50/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/ant-design/6f1eb50/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1229,7 +1229,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/backyourstack/0878f3f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/backyourstack/0878f3f/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1259,7 +1259,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/javascript-obfuscator/bbd24b2/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/javascript-obfuscator/bbd24b2/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1301,7 +1301,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/apex/19b9ee8/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/apex/19b9ee8/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1327,7 +1327,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/prettier/4247d7e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/prettier/4247d7e/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1353,7 +1353,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: 'Wed Dec 15 2021 20:00:23 GMT+0000 (Coordinated Universal Time)',
-        imageUrl: 'https://images-staging.opencollective.com/big-party-2-16658ev/f755d77/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/big-party-2-16658ev/f755d77/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1381,7 +1381,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/hostmeplease/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/hostmeplease/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1418,7 +1418,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/chaussettes/9f451a8/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/chaussettes/9f451a8/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1493,7 +1493,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/atomex/a0e455f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/atomex/a0e455f/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1570,7 +1570,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: 'Sun Sep 16 2018 19:00:00 GMT+0000 (Coordinated Universal Time)',
-        imageUrl: 'https://images-staging.opencollective.com/captainfact_io/e396080/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/captainfact_io/e396080/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1595,7 +1595,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/newcollectiveshouldbeeditable/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/newcollectiveshouldbeeditable/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1617,7 +1617,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/hostme/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/hostme/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1654,7 +1654,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/atomex/a0e455f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/atomex/a0e455f/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1731,7 +1731,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/chaussettes/9f451a8/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/chaussettes/9f451a8/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1806,7 +1806,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/hello2/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/hello2/logo.png',
         categories: [],
         host: null,
         settings: {},
@@ -1826,7 +1826,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/super-organization/46dc271/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/super-organization/46dc271/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -1902,7 +1902,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/webpack/c517443/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/webpack/c517443/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -1969,7 +1969,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollectiveinc/019a512/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollectiveinc/019a512/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -2011,7 +2011,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/democracy-watcher/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/democracy-watcher/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2059,7 +2059,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/etsidemain/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/etsidemain/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2090,7 +2090,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/radarr/81fae99/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/radarr/81fae99/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2128,7 +2128,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/atomex/a0e455f/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/atomex/a0e455f/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -2205,7 +2205,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/jougebnb/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/jougebnb/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2228,7 +2228,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/etsidemain/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/etsidemain/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2259,7 +2259,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/queerjs/3726775/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/queerjs/3726775/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2290,7 +2290,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/styled-icons/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/styled-icons/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2316,7 +2316,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/kcanotify/cea4fbf/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/kcanotify/cea4fbf/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2351,7 +2351,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/yetiforcecrm/d346526/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/yetiforcecrm/d346526/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2378,7 +2378,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opensource/cd1565e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opensource/cd1565e/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -2465,7 +2465,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/edwinemery/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/edwinemery/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -2525,7 +2525,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/husky/7bdbfe1/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/husky/7bdbfe1/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2552,7 +2552,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/my-host/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/my-host/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -2581,7 +2581,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: 'Wed Dec 15 2021 20:00:23 GMT+0000 (Coordinated Universal Time)',
-        imageUrl: 'https://images-staging.opencollective.com/big-party-2-16658ev/f755d77/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/big-party-2-16658ev/f755d77/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2609,7 +2609,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/eslint/96b09dc/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/eslint/96b09dc/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2643,7 +2643,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/eslint/96b09dc/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/eslint/96b09dc/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2677,7 +2677,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/styled-icons/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/styled-icons/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2703,7 +2703,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/octobox/d887924/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/octobox/d887924/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2738,7 +2738,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/babel/bc31763/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/babel/bc31763/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2765,7 +2765,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/webpack/c517443/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/webpack/c517443/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -2832,7 +2832,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/captainfact_io/e396080/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/captainfact_io/e396080/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3005,7 +3005,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'GBP',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/inactivecollective/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/inactivecollective/logo.png',
         categories: [],
         host: null,
         settings: {},
@@ -3025,7 +3025,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'GBP',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/inactivecollective/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/inactivecollective/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3157,7 +3157,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/up-we-rise/f32f5fb/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/up-we-rise/f32f5fb/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3180,7 +3180,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/potatoesfortheclimate/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/potatoesfortheclimate/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3204,7 +3204,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/loterie-solaire/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/loterie-solaire/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3229,7 +3229,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/xr-namur/3c07c2a/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/xr-namur/3c07c2a/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3255,7 +3255,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/etsidemain/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/etsidemain/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3286,7 +3286,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/super-organization6/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/super-organization6/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3318,7 +3318,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/futurbulences/1604009/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/futurbulences/1604009/logo.png',
         categories: [],
         host: {
           __typename: 'User',
@@ -3341,7 +3341,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/democracy-watcher/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/democracy-watcher/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3430,7 +3430,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/democracy-watcher/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/democracy-watcher/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3519,7 +3519,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/cheerio/b402e85/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/cheerio/b402e85/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3546,7 +3546,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/europe/019a512/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/europe/019a512/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3593,7 +3593,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/acme-organization/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/acme-organization/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3629,7 +3629,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/collective-without-stripe/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/collective-without-stripe/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3656,7 +3656,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/apex/19b9ee8/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/apex/19b9ee8/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3682,7 +3682,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/testtest/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/testtest/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3706,7 +3706,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/babel/bc31763/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/babel/bc31763/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3733,7 +3733,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/democracy-watcher/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/democracy-watcher/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3822,7 +3822,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/empty/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/empty/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -3846,7 +3846,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/x/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/x/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3873,7 +3873,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/mercantour/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/mercantour/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3900,7 +3900,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/myfund/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/myfund/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -3999,7 +3999,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/parcel/63d52ec/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/parcel/63d52ec/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4026,7 +4026,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/paris/61919db/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/paris/61919db/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -4056,7 +4056,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollectiveinc/019a512/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollectiveinc/019a512/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -4098,7 +4098,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/covid-collective/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/covid-collective/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4126,7 +4126,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/stuff-andstuff/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/stuff-andstuff/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4153,7 +4153,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: true,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/foundation/e971158/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/foundation/e971158/logo.png',
         categories: [],
         host: null,
         settings: {
@@ -4183,7 +4183,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/babel/bc31763/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/babel/bc31763/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4210,7 +4210,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/babel/bc31763/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/babel/bc31763/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4237,7 +4237,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/babel/bc31763/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/babel/bc31763/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4264,7 +4264,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/myfund/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/myfund/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4363,7 +4363,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/myfund/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/myfund/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4462,7 +4462,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'EUR',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/captainfact_io/e396080/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/captainfact_io/e396080/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4635,7 +4635,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollective/8c4448e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollective/8c4448e/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4665,7 +4665,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollective/8c4448e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollective/8c4448e/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4695,7 +4695,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/opencollective/8c4448e/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/opencollective/8c4448e/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4725,7 +4725,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/nest/672f762/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/nest/672f762/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4767,7 +4767,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/vapor/e5270b1/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/vapor/e5270b1/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',
@@ -4793,7 +4793,7 @@ export const loggedInUser = new LoggedInUser({
         currency: 'USD',
         isHost: false,
         endsAt: null,
-        imageUrl: 'https://images-staging.opencollective.com/tipbox/8bd1f97/logo.png',
+        imageUrl: 'https://images-staging.qpayee.com/tipbox/8bd1f97/logo.png',
         categories: [],
         host: {
           __typename: 'Organization',

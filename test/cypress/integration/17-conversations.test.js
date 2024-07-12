@@ -18,12 +18,12 @@ describe('Conversations', () => {
       // Test rich text formatting
       cy.get('[data-cy="RichTextEditor"] trix-editor', { timeout: 30000 }).as('editor');
       cy.get('@editor').type(
-        'Hello from https://opencollective.com/opencollective 👋👋👋{enter}Lorem ipsum dolor sit amet, consectetur adipiscing elit. De hominibus dici non necesse est. Immo alio genere; Si longus, levis; Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus.',
+        'Hello from https://qpayee.com/opencollective 👋👋👋{enter}Lorem ipsum dolor sit amet, consectetur adipiscing elit. De hominibus dici non necesse est. Immo alio genere; Si longus, levis; Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus.',
       );
 
       cy.get('@editor').should(
         'contain.html',
-        'Hello from <a href="https://opencollective.com/opencollective">https://opencollective.com/opencollective</a> 👋👋👋',
+        'Hello from <a href="https://qpayee.com/opencollective">https://qpayee.com/opencollective</a> 👋👋👋',
       );
 
       // Add tags
@@ -38,7 +38,7 @@ describe('Conversations', () => {
       cy.contains('Hello World 👋');
       cy.getByDataCy('comment-body').should(
         'contain.html',
-        '<div>Hello from <a href="https://opencollective.com/opencollective">https://opencollective.com/opencollective</a> 👋👋👋',
+        '<div>Hello from <a href="https://qpayee.com/opencollective">https://qpayee.com/opencollective</a> 👋👋👋',
       );
       cy.getByDataCy('comment-body').should(
         'contain.text',
@@ -66,7 +66,7 @@ describe('Conversations', () => {
       cy.getByDataCy('replies-count').contains('2');
       cy.getByDataCy('conversation-preview').should(
         'contain.html',
-        'Hello from <a href="https://opencollective.com/opencollective">https://opencollective.com/opencollective</a> 👋👋👋',
+        'Hello from <a href="https://qpayee.com/opencollective">https://qpayee.com/opencollective</a> 👋👋👋',
       );
       cy.getByDataCy('conversation-preview').should(
         'contain.text',

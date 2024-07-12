@@ -325,7 +325,7 @@ const CreateProfile = ({
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://docs.opencollective.com/help/financial-contributors/organizations#what-is-an-organization"
+                href="https://docs.qpayee.com/help/financial-contributors/organizations#what-is-an-organization"
               >
                 <FormattedMessage defaultMessage="Read more about organization accounts" id="OuFEXI" />
               </a>

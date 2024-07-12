@@ -61,7 +61,7 @@ const PendingTaxFormView = ({
             values={{
               SupportLink: I18nSupportLink,
               HelpDocsLink: getI18nLink({
-                href: 'https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information',
+                href: 'https://docs.qpayee.com/help/expenses-and-getting-paid/tax-information',
                 openInNewTab: true,
               }),
             }}
@@ -106,7 +106,7 @@ const TaxFormSuccessView = () => {
             values={{
               SupportLink: I18nSupportLink,
               DocsLink: getI18nLink({
-                href: 'https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information',
+                href: 'https://docs.qpayee.com/help/expenses-and-getting-paid/tax-information',
                 openInNewTab: true,
               }),
             }}

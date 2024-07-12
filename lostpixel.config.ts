@@ -13,8 +13,8 @@ export const config: Partial<CustomProjectConfig> = {
     await page.addStyleTag({
       content: `
         /* Hide images from live domains as they may sometimes change or not load properly */
-        image[src*="https://images.opencollective.com/"],
-        image[src*="https://images-staging.opencollective.com/"] {
+        image[src*="https://images.qpayee.com/"],
+        image[src*="https://images-staging.qpayee.com/"] {
           visibility: hidden;
         }
 

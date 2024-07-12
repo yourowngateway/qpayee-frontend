@@ -234,7 +234,7 @@ const ExpenseFormPayeeInviteNewStep = ({
                   name={field.name}
                   label={formatMessage(msg.orgSlugLabel)}
                 >
-                  {inputProps => <StyledInputGroup {...inputProps} {...field} prepend="opencollective.com/" />}
+                  {inputProps => <StyledInputGroup {...inputProps} {...field} prepend="qpayee.com/" />}
                 </StyledInputField>
               )}
             </Field>

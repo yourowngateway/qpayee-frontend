@@ -203,12 +203,12 @@ const nextConfig = {
           {
             type: 'header',
             key: 'host',
-            value: 'opencollective.com',
+            value: 'qpayee.com',
           },
           {
             type: 'header',
             key: 'original-hostname',
-            value: 'opencollective.com',
+            value: 'qpayee.com',
           },
         ],
       },
@@ -225,7 +225,7 @@ const nextConfig = {
           {
             type: 'header',
             key: 'host',
-            value: 'next-images.opencollective.com',
+            value: 'next-images.qpayee.com',
           },
         ],
       },

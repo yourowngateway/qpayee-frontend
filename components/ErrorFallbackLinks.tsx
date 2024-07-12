@@ -44,20 +44,20 @@ export const ErrorFallbackLinks = ({
   return (
     <LinksContainer>
       {showHome && (
-        <Link href="https://opencollective.com/">
+        <Link href="https://qpayee.com/">
           <FormattedMessage id="home" defaultMessage="Home" />
         </Link>
       )}
-      <Link href="https://opencollective.com/discover">
+      <Link href="https://qpayee.com/discover">
         {showDiscover && <FormattedMessage id="menu.discover" defaultMessage="Discover" />}
       </Link>
       {showDocumentation && (
-        <Link href="https://docs.opencollective.com">
+        <Link href="https://docs.qpayee.com">
           <FormattedMessage id="menu.documentation" defaultMessage="Documentation" />
         </Link>
       )}
       {showSupport && (
-        <Link href="mailto:support@opencollective.com">
+        <Link href="mailto:support@qpayee.com">
           <FormattedMessage id="community.support" defaultMessage="Support" />
         </Link>
       )}

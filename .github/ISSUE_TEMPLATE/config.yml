@@ -4,10 +4,10 @@ contact_links:
     url: https://github.com/opencollective/opencollective/issues
     about: Repository to track issues across all our projects
   - name: Discord Channel
-    url: https://discord.opencollective.com
+    url: https://discord.qpayee.com
     about: Engage with the Open Collective community
   - name: Documentation
-    url: https://docs.opencollective.com/help/
+    url: https://docs.qpayee.com/help/
     about: Documentation for Open Collective
   - name: Security Policy
     url: https://github.com/opencollective/opencollective/security/policy

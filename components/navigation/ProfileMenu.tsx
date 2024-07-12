@@ -188,7 +188,7 @@ const ProfileMenu = ({ logoutParameters }: { logoutParameters?: Parameters<UserC
               <FormattedMessage defaultMessage="Help & Support" id="Uf3+S6" />
             </MenuItem>
 
-            <MenuItem Icon={BookOpen} href="https://docs.opencollective.com" external={true}>
+            <MenuItem Icon={BookOpen} href="https://docs.qpayee.com" external={true}>
               <FormattedMessage id="menu.documentation" defaultMessage="Documentation" />
             </MenuItem>
 

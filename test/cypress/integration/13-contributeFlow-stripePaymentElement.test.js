@@ -161,7 +161,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
     it('User', testConfig, () => {
       cy.get('@collective').then(col => {
-        cy.signup({ email: `${randomSlug()}+test@opencollective.com`, redirect: `/${col.slug}/donate` });
+        cy.signup({ email: `${randomSlug()}+test@qpayee.com`, redirect: `/${col.slug}/donate` });
       });
 
       cy.contains('Your info').click();
@@ -229,7 +229,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
     it('User', testConfig, () => {
       cy.get('@collective').then(col => {
-        cy.signup({ email: `${randomSlug()}+test@opencollective.com`, redirect: `/${col.slug}/donate` });
+        cy.signup({ email: `${randomSlug()}+test@qpayee.com`, redirect: `/${col.slug}/donate` });
       });
 
       cy.contains('Your info').click();
@@ -284,7 +284,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
     it('User', testConfig, () => {
       cy.get('@collective').then(col => {
-        cy.signup({ email: `${randomSlug()}+test@opencollective.com`, redirect: `/${col.slug}/donate` });
+        cy.signup({ email: `${randomSlug()}+test@qpayee.com`, redirect: `/${col.slug}/donate` });
       });
 
       cy.contains('Your info').click();
@@ -355,7 +355,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
     it('User', testConfig, () => {
       cy.get('@collective').then(col => {
-        cy.signup({ email: `${randomSlug()}+test@opencollective.com`, redirect: `/${col.slug}/donate` });
+        cy.signup({ email: `${randomSlug()}+test@qpayee.com`, redirect: `/${col.slug}/donate` });
       });
 
       cy.contains('Your info').click();
@@ -385,7 +385,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
     it('Redirects to trusted url', testConfig, () => {
       cy.get('@collective').then(col => {
-        cy.visit(`/${col.slug}/donate?redirect=https://opencollective.com`);
+        cy.visit(`/${col.slug}/donate?redirect=https://qpayee.com`);
       });
 
       cy.contains('Your info').click();
@@ -394,7 +394,7 @@ describe('Contribute Flow: Stripe Payment Element', () => {
 
       contributeWithNewCard();
 
-      cy.location('origin', { timeout: 60000 }).should('eql', 'https://opencollective.com');
+      cy.location('origin', { timeout: 60000 }).should('eql', 'https://qpayee.com');
     });
 
     it('Redirects to untrusted url', testConfig, () => {

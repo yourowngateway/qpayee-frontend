@@ -26,7 +26,7 @@ const ContributeFAQ = ({ collective, ...props }) => (
           values={{
             LearnMoreLink: getI18nLink({
               openInNewTab: true,
-              href: 'https://docs.opencollective.com/help/product/security#payments-security',
+              href: 'https://docs.qpayee.com/help/product/security#payments-security',
             }),
           }}
         />
@@ -43,7 +43,7 @@ const ContributeFAQ = ({ collective, ...props }) => (
           values={{
             Link: getI18nLink({
               openInNewTab: true,
-              href: 'https://docs.opencollective.com/help/financial-contributors/platform-tips',
+              href: 'https://docs.qpayee.com/help/financial-contributors/platform-tips',
             }),
           }}
         />
@@ -124,7 +124,7 @@ const ContributeFAQ = ({ collective, ...props }) => (
     <Box mt={2}>
       <StyledLink
         as={StyledLink}
-        href="https://docs.opencollective.com/help/financial-contributors/payments#financial-contribution-flow"
+        href="https://docs.qpayee.com/help/financial-contributors/payments#financial-contribution-flow"
         openInNewTab
         fontSize="12px"
         color="black.700"

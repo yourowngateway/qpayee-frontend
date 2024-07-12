@@ -286,11 +286,11 @@ class Webhooks extends React.Component {
             id="gN829M"
             values={{
               GraphqlAPILink: getI18nLink({
-                href: 'https://docs.opencollective.com/help/contributing/development/api#graphql-api',
+                href: 'https://docs.qpayee.com/help/contributing/development/api#graphql-api',
                 openInNewTab: true,
               }),
               DocLink: getI18nLink({
-                href: 'https://docs.opencollective.com/help/collectives/collective-settings/integrations#webhooks-generic-slack-discord',
+                href: 'https://docs.qpayee.com/help/collectives/collective-settings/integrations#webhooks-generic-slack-discord',
                 openInNewTab: true,
               }),
             }}

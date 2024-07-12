@@ -22,7 +22,7 @@ want to talk!"
     <Flex flexDirection={['column', 'row']} alignItems="center">
       <StyledCard
         as={StyledLink}
-        href="https://discord.opencollective.com/"
+        href="https://discord.qpayee.com/"
         borderWidth="0px"
         boxShadow={['0px 1px 4px 1px rgba(49, 50, 51, 0.1)', 'unset']}
         padding={['16px', 0]}
@@ -35,7 +35,7 @@ want to talk!"
           <FormattedMessage id="helpAndSupport.joinCommunity" defaultMessage="Join our Discord community" />
         </H3>
         <P fontSize="16px" lineHeight="24px" color="black.700">
-          https://discord.opencollective.com
+          https://discord.qpayee.com
         </P>
       </StyledCard>
       <Box width="2px" height="64px" backgroundColor="#1869F5" mx="40px" display={['none', 'inline-block']} />

@@ -137,7 +137,7 @@ const PersonalTokenSettings = ({ backPath, id }) => {
               },
               {
                 Link: getI18nLink({
-                  href: 'https://docs.opencollective.com/help/developers/personal-tokens',
+                  href: 'https://docs.qpayee.com/help/developers/personal-tokens',
                   openInNewTab: true,
                 }),
               },
@@ -212,7 +212,7 @@ const PersonalTokenSettings = ({ backPath, id }) => {
                     },
                     {
                       Link: getI18nLink({
-                        href: 'https://docs.opencollective.com/help/developers/oauth#text-available-scopes',
+                        href: 'https://docs.qpayee.com/help/developers/oauth#text-available-scopes',
                         openInNewTab: true,
                       }),
                     },

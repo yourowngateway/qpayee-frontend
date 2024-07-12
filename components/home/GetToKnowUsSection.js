@@ -77,12 +77,7 @@ const GetToKnowUs = () => {
           </P>
           <ListContainer>
             <StyledListItem fontSize="20px" lineHeight="28px" letterSpacing="-0.008em" fontWeight="500" mb="24px">
-              <StyledLink
-                color="black.800"
-                href="https://blog.opencollective.com"
-                openInNewTab
-                textDecoration="underline"
-              >
+              <StyledLink color="black.800" href="https://blog.qpayee.com" openInNewTab textDecoration="underline">
                 <FormattedMessage defaultMessage="Read our blog" id="AgyCr7" />
               </StyledLink>
             </StyledListItem>
@@ -112,7 +107,7 @@ const GetToKnowUs = () => {
             >
               <StyledLink
                 color="black.800"
-                href="https://blog.opencollective.com/tag/case-studies/"
+                href="https://blog.qpayee.com/tag/case-studies/"
                 textDecoration="underline"
                 openInNewTab
               >
@@ -160,12 +155,7 @@ const GetToKnowUs = () => {
               color="black.800"
               mb="24px"
             >
-              <StyledLink
-                color="black.800"
-                href="https://docs.opencollective.com"
-                textDecoration="underline"
-                openInNewTab
-              >
+              <StyledLink color="black.800" href="https://docs.qpayee.com" textDecoration="underline" openInNewTab>
                 <FormattedMessage defaultMessage="Read through our documentation" id="wdcTBA" />
               </StyledLink>
             </StyledListItem>
@@ -177,12 +167,7 @@ const GetToKnowUs = () => {
               color="black.800"
               mb="24px"
             >
-              <StyledLink
-                color="black.800"
-                href="https://discord.opencollective.com/"
-                textDecoration="underline"
-                openInNewTab
-              >
+              <StyledLink color="black.800" href="https://discord.qpayee.com/" textDecoration="underline" openInNewTab>
                 Discord
               </StyledLink>
             </StyledListItem>

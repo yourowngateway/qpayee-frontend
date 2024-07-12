@@ -38,7 +38,7 @@ export const landingPageItems: Item[] = [
     items: [
       {
         label: <FormattedMessage id="company.blog" defaultMessage="Blog" />,
-        href: 'https://blog.opencollective.com/',
+        href: 'https://blog.qpayee.com/',
       },
       {
         label: <FormattedMessage id="OC.e2c" defaultMessage="Exit to Community" />,
@@ -46,7 +46,7 @@ export const landingPageItems: Item[] = [
       },
       {
         label: <FormattedMessage id="collective.about.title" defaultMessage="About" />,
-        href: 'https://docs.opencollective.com/help/about/introduction',
+        href: 'https://docs.qpayee.com/help/about/introduction',
       },
     ],
   },
@@ -86,7 +86,7 @@ export const regularFooterItems: Item[] = [
       },
       {
         label: <FormattedMessage id="platform.useCases" defaultMessage="Use cases" />,
-        href: 'https://blog.opencollective.com/tag/case-studies/',
+        href: 'https://blog.qpayee.com/tag/case-studies/',
       },
       {
         label: <FormattedMessage id="platform.signup" defaultMessage="Sign up" />,
@@ -145,11 +145,11 @@ export const regularFooterItems: Item[] = [
     items: [
       {
         label: <FormattedMessage id="collective.about.title" defaultMessage="About" />,
-        href: 'https://docs.opencollective.com/help/about/introduction',
+        href: 'https://docs.qpayee.com/help/about/introduction',
       },
       {
         label: <FormattedMessage id="company.blog" defaultMessage="Blog" />,
-        href: 'https://blog.opencollective.com/',
+        href: 'https://blog.qpayee.com/',
       },
       {
         label: <FormattedMessage id="company.hiring" defaultMessage="Hiring" />,
@@ -169,7 +169,7 @@ export const regularFooterItems: Item[] = [
       },
       {
         label: <FormattedMessage id="company.securityPolicy" defaultMessage="Security Policy" />,
-        href: 'https://docs.opencollective.com/help/product/security',
+        href: 'https://docs.qpayee.com/help/product/security',
       },
       {
         label: <FormattedMessage id="contactUs" defaultMessage="Contact us" />,

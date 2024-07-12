@@ -3453,7 +3453,7 @@
   "TransactionsOverview": "Katkılar ve Giderler",
   "transferwise.error.balance.payment-option-unavailable": "Unable to fund transfer. Please check your balance and try again.",
   "transferwise.error.currencyNotSupported": "This currency is not supported",
-  "transferwise.error.default": "Wise ile bilinmeyen bir hata oluştu. Lütfen support@opencollective.com ile iletişime geçin.",
+  "transferwise.error.default": "Wise ile bilinmeyen bir hata oluştu. Lütfen support@qpayee.com ile iletişime geçin.",
   "transferwise.error.insufficientFunds": "Not enough funds in your {currency} balance. Please top up your account and try again.",
   "transferwise.error.notConnected": "Host is not connected to Wise",
   "tSQ2Fc": "Your reset password email is on its way.",

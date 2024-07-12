@@ -4,7 +4,7 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/opencollective/localized.svg)](https://crowdin.com/project/opencollective)
 ![React Version](https://img.shields.io/github/package-json/dependency-version/opencollective/opencollective-frontend/react)
 ![Next.JS Version](https://img.shields.io/github/package-json/dependency-version/opencollective/opencollective-frontend/next)
-[![Discord](https://discordapp.com/api/guilds/1241017531318276158/widget.png)](https://discord.opencollective.com)
+[![Discord](https://discordapp.com/api/guilds/1241017531318276158/widget.png)](https://discord.qpayee.com)
 
 <p align="center">
   <a href="https://github.com/opencollective/opencollective-frontend">
@@ -86,7 +86,7 @@ We're currently looking for contributions for the following languages:
 - Spanish
 - Japanese
 
-Want to add a new language for Open Collective? [Contact us](https://discord.opencollective.com) and
+Want to add a new language for Open Collective? [Contact us](https://discord.qpayee.com) and
 we'll be happy to help you to set it up!
 
 ## Contributing
@@ -97,7 +97,7 @@ TL;DR: we use [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/)
 
 ## Bounties
 
-This repo is part of the Open Collective bounty program. Get paid to contribute to Open Source! The Open Collective engineering team is small and we're always looking for new contributors to our Open Source codebases. Our Bounty program is an opportunity to solve issues that could be neglected otherwise. Contributors who fix these issues will be rewarded financially. Please see our docs for more information: https://docs.opencollective.com/help/contributing/development/bounties
+This repo is part of the Open Collective bounty program. Get paid to contribute to Open Source! The Open Collective engineering team is small and we're always looking for new contributors to our Open Source codebases. Our Bounty program is an opportunity to solve issues that could be neglected otherwise. Contributors who fix these issues will be rewarded financially. Please see our docs for more information: https://docs.qpayee.com/help/contributing/development/bounties
 
 ## Deployment
 
@@ -117,7 +117,7 @@ To add new files or dependencies to this exported package, have a look at [scrip
 
 ## Discussion
 
-If you have any questions, ping us on [Discord](https://discord.opencollective.com) or Twitter
+If you have any questions, ping us on [Discord](https://discord.qpayee.com) or Twitter
 ([@opencollect](https://twitter.com/opencollect)).
 
 ## Thanks

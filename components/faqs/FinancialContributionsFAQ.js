@@ -52,7 +52,7 @@ const FinancialContributionsFAQ = props => (
     <Box mt={2}>
       <StyledLink
         as={StyledLink}
-        href="https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host"
+        href="https://docs.qpayee.com/help/fiscal-hosts/become-a-fiscal-host"
         openInNewTab
         fontSize="12px"
         color="black.700"

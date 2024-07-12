@@ -312,7 +312,7 @@ const ExportTransactionsCSVModal = ({
           ? `authorization="Bearer ${accessToken}";path=/;SameSite=strict;max-age=120`
           : // It is not possible to use HttpOnly when setting from JavaScript.
             // I'm enforcing SameSite and Domain in production to prevent CSRF.
-            `authorization="Bearer ${accessToken}";path=/;SameSite=strict;max-age=120;domain=opencollective.com;secure`;
+            `authorization="Bearer ${accessToken}";path=/;SameSite=strict;max-age=120;domain=qpayee.com;secure`;
     }
     setDownloadUrl(makeUrl({ account, isHostReport, queryFilter, flattenTaxesAndPaymentProcessorFees, fields }));
   }, [fields, flattenTaxesAndPaymentProcessorFees, queryFilter, account, isHostReport, setDownloadUrl]);

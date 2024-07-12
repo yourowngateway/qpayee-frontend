@@ -492,7 +492,7 @@ function Expense(props) {
                 values={{
                   I18nSupportLink,
                   Link: getI18nLink({
-                    href: 'https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information',
+                    href: 'https://docs.qpayee.com/help/expenses-and-getting-paid/tax-information',
                     openInNewTab: true,
                   }),
                 }}
@@ -544,7 +544,7 @@ function Expense(props) {
                     id="f2Ypkz"
                     values={{
                       HelpDocsLink: getI18nLink({
-                        href: 'https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information',
+                        href: 'https://docs.qpayee.com/help/expenses-and-getting-paid/tax-information',
                         openInNewTab: true,
                       }),
                     }}

@@ -24,7 +24,7 @@ export function CrowdfundingPreviewBanner({ account }) {
             values={{
               Link: getI18nLink({
                 openInNewTab: true,
-                href: 'https://blog.opencollective.com/open-collective-crowdfunding-redesign/',
+                href: 'https://blog.qpayee.com/open-collective-crowdfunding-redesign/',
               }),
             }}
           />

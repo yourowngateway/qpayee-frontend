@@ -80,7 +80,7 @@ const EditPayPalAccount = props => {
               defaultMessage="Connect a PayPal account to pay expenses with one click. (<a>Instructions</a>)."
               values={{
                 a: getI18nLink({
-                  href: 'https://docs.opencollective.com/help/fiscal-hosts/payouts/payouts-with-paypal',
+                  href: 'https://docs.qpayee.com/help/fiscal-hosts/payouts/payouts-with-paypal',
                   openInNewTab: true,
                 }),
               }}

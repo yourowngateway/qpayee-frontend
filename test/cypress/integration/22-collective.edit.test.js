@@ -65,7 +65,7 @@ describe('edit collective', () => {
     cy.get('.name.inputField input', { timeout: 10000 }).type(' edited');
     cy.get('.description.inputField input').type(' edited');
     cy.contains('Add social link').click();
-    cy.focused().type('https://opencollective.com/');
+    cy.focused().type('https://qpayee.com/');
     cy.contains('Add social link').click();
     cy.focused().type('https://twitter.com/opencollective');
     cy.contains('Add social link').click();
@@ -75,7 +75,7 @@ describe('edit collective', () => {
     cy.get('.backToProfile a').click(); // back to profile
     cy.wait(500);
     cy.get('[data-cy="collective-hero"] [data-cy="collective-title"]').contains('edited');
-    cy.get('[data-cy="social-link-0"]').should('have.attr', 'href', 'https://opencollective.com/');
+    cy.get('[data-cy="social-link-0"]').should('have.attr', 'href', 'https://qpayee.com/');
     cy.get('[data-cy="social-link-1"]').should('have.attr', 'href', 'https://twitter.com/opencollective');
     cy.get('[data-cy="social-link-2"]').should('have.attr', 'href', 'https://github.com/opencollective');
   });

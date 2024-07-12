@@ -4,7 +4,7 @@
 
 Do you want to get paid to work on your passion for open source, mutual aid, and the commons, while earning a good livelihood and having great work-life balance? Come work with us!
 
-![](https://blog.opencollective.com/content/images/2022/10/P1199711-ANIMATION.gif)
+![](https://blog.qpayee.com/content/images/2022/10/P1199711-ANIMATION.gif)
 
 Open Collective is a financial and legal toolbox for grassroots groups. We support 15,000 groups and 30+ nonprofits around the world with one shared backend solution for fundraising and money management. This year our Collectives are on track to raise and spend $35 million dollars in full transparency.
 
@@ -12,7 +12,7 @@ Open Collective is a financial and legal toolbox for grassroots groups. We suppo
 
 <!--## Customer Support Representative
 
-[Open Collective](https://opencollective.com/) is currently seeking a Customer Support Representative who is passionate about the future of money, collective work, transparent budgets, open source, mutual aid, and distributed leadership.
+[Open Collective](https://qpayee.com/) is currently seeking a Customer Support Representative who is passionate about the future of money, collective work, transparent budgets, open source, mutual aid, and distributed leadership.
 
 ### Responsibilities
 
@@ -65,11 +65,11 @@ Not required, but a bonus:
 
 ### A little about Open Collective
 
-[Open Collective](https://opencollective.com/), an open-source software company founded in 2015, is committed to supporting grassroots groups and communities around the world with transparent fundraising, money management, and legal tools. We're proud to have supported over 15,000 groups and 30+ nonprofits globally, raising and spending $35 million dollars in full transparency. Our platform helps open source projects, community projects, and mutual aid groups thrive all over the world, and we are on a long-term path toward [community governance](http://opencollective.com/e2c).
+[Open Collective](https://qpayee.com/), an open-source software company founded in 2015, is committed to supporting grassroots groups and communities around the world with transparent fundraising, money management, and legal tools. We're proud to have supported over 15,000 groups and 30+ nonprofits globally, raising and spending $35 million dollars in full transparency. Our platform helps open source projects, community projects, and mutual aid groups thrive all over the world, and we are on a long-term path toward [community governance](http://qpayee.com/e2c).
 
-“Open Collective” means transparency (“Open”) and community (“Collective”), and thus our platform is built on values of openness, transparency, and collective collaboration. The team is a group of optimistic, driven, nerdy, and open people. Our culture, though ever-changing and sometimes chaotic like many start-ups, is also oriented toward care, candor, rigor, generosity, and autonomy. (You can read more about our values in our [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines).)
+“Open Collective” means transparency (“Open”) and community (“Collective”), and thus our platform is built on values of openness, transparency, and collective collaboration. The team is a group of optimistic, driven, nerdy, and open people. Our culture, though ever-changing and sometimes chaotic like many start-ups, is also oriented toward care, candor, rigor, generosity, and autonomy. (You can read more about our values in our [Community Guidelines](https://docs.qpayee.com/help/about/the-open-collective-way/community-guidelines).)
 
-Our international, fully-remote, highly-collaborative team currently includes members in Spain, France, Belgium, Germany, the UK, Romania, the United States, Mexico, Canada, Indonesia, Brazil, India, and New Zealand. To learn more about the company, [watch this 50-second video](https://www.youtube.com/watch?v=SfHeSpoSHTM), skim through our [blog](https://blog.opencollective.com), and read about our [strategy](https://blog.opencollective.com/oc-strategy-2023-2024/). We look forward to learning more about you, too!
+Our international, fully-remote, highly-collaborative team currently includes members in Spain, France, Belgium, Germany, the UK, Romania, the United States, Mexico, Canada, Indonesia, Brazil, India, and New Zealand. To learn more about the company, [watch this 50-second video](https://www.youtube.com/watch?v=SfHeSpoSHTM), skim through our [blog](https://blog.qpayee.com), and read about our [strategy](https://blog.qpayee.com/oc-strategy-2023-2024/). We look forward to learning more about you, too!
 
 ### The support team
 
@@ -84,22 +84,22 @@ A few more notes about our team:
 
 ### Join us!
 
-We’d love to hear from you. Applications are open through June 2nd. [To apply](https://coda.io/form/Application-Open-Collective-Customer-Support-Representative_dJ3tGEm2kIw). If you have any questions, reach out to us at [support@opencollective.com](mailto:support@opencollective.com).-->
+We’d love to hear from you. Applications are open through June 2nd. [To apply](https://coda.io/form/Application-Open-Collective-Customer-Support-Representative_dJ3tGEm2kIw). If you have any questions, reach out to us at [support@qpayee.com](mailto:support@qpayee.com).-->
 
 <!-- ## [Open Source Collective](https://www.oscollective.org/): Operations Coordinator
 
 $60 ~ $80k yearly salary for 40 hrs/wk. Salary range contingent on experience.
 Must live within 4 hrs of EST time zone. Applications open until February 17th.
 
-[Open Source Collective](https://oscollective.org/) (OSC) is a non-profit fiscal sponsor for [over 3,000 open source projects](https://opencollective.com/opensource). Our mission is to create a sustainable and healthy open source ecosystem through our services which allow our collectives access 501(c)(6) status and the tools and support to fundraise and disburse those funds in full transparency. Our Collectives are on track to raise $20m in 2023. We are scaling quickly, and growing our team to meet increasing demand.
+[Open Source Collective](https://oscollective.org/) (OSC) is a non-profit fiscal sponsor for [over 3,000 open source projects](https://qpayee.com/opensource). Our mission is to create a sustainable and healthy open source ecosystem through our services which allow our collectives access 501(c)(6) status and the tools and support to fundraise and disburse those funds in full transparency. Our Collectives are on track to raise $20m in 2023. We are scaling quickly, and growing our team to meet increasing demand.
 
 ### What Makes Us Different
 
-OSC is a tech-first nonprofit. We are one node in a growing international network of 30+ fiscal sponsor organizations who use [Open Collective](https://opencollective.com/), an open source software platform for transparent fundraising and money management, to create efficiencies with money and amplify impact in communities. Globally, the network supports 15,000 groups to raise and spend $35M a year. Our tech platform and mission are all about transparency, collective collaboration, and practicality—and we apply the same principles to how we run OSC as an organization.
+OSC is a tech-first nonprofit. We are one node in a growing international network of 30+ fiscal sponsor organizations who use [Open Collective](https://qpayee.com/), an open source software platform for transparent fundraising and money management, to create efficiencies with money and amplify impact in communities. Globally, the network supports 15,000 groups to raise and spend $35M a year. Our tech platform and mission are all about transparency, collective collaboration, and practicality—and we apply the same principles to how we run OSC as an organization.
 
 ### Learn more
 
-- OSC's [Website](https://www.oscollective.org/), [mission & values](https://docs.oscollective.org/mission-values-and-strategy), and [strategy](https://blog.opencollective.com/open-source-collectives-strategy-2022-2025/)
+- OSC's [Website](https://www.oscollective.org/), [mission & values](https://docs.oscollective.org/mission-values-and-strategy), and [strategy](https://blog.qpayee.com/open-source-collectives-strategy-2022-2025/)
 - [What is Open Source Collective (video)](https://www.youtube.com/watch?v=ubfYuAMm3_c)
 - [What is Open Collective (video)](https://www.youtube.com/@OpenCollective)
 - [Our documentation](https://docs.oscollective.org/)
@@ -146,7 +146,7 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfRC2ZivuNQ
 If you have questions, reach out to [hello@oscollective.org](mailto:hello@oscollective.org)-->
 
 <!--
-Right now, [Open Collective](https://opencollective.com) is hiring for a Senior UX Designer.
+Right now, [Open Collective](https://qpayee.com) is hiring for a Senior UX Designer.
 
 ## Senior UX Designer
 
@@ -156,7 +156,7 @@ We are looking for a Senior UX designer who is passionate about: the future of m
 
 ### About
 
-**The design team at [Open Collective](https://opencollective.com)** is currently based in Mexico, India, Brazil, and the United States. It is responsible for planning, designing, and delivering the features that will make this goal possible in a way that embraces the contributions of multiple designers and creatives worldwide. So far, we have not had a UX-focused designer and we are thrilled to add this skillset to the team.
+**The design team at [Open Collective](https://qpayee.com)** is currently based in Mexico, India, Brazil, and the United States. It is responsible for planning, designing, and delivering the features that will make this goal possible in a way that embraces the contributions of multiple designers and creatives worldwide. So far, we have not had a UX-focused designer and we are thrilled to add this skillset to the team.
 
 ### As a senior UX designer, you will:
 
@@ -195,9 +195,9 @@ Additional to the monetary compensation, we offer a couple of extra perks:
 
 We are a group of optimistic, driven, nerdy, and open people. Open Collective stands for Transparency (“open”) and Group Work (“collective”).
 
-**OPEN**: Our product is built to help groups with financial transparency, and all of our internal team salaries, organizational files, code, and designs are open, too. See our [issue repo](https://github.com/opencollective/opencollective/issues) and [design budget transactions](https://opencollective.com/design/transactions).
+**OPEN**: Our product is built to help groups with financial transparency, and all of our internal team salaries, organizational files, code, and designs are open, too. See our [issue repo](https://github.com/opencollective/opencollective/issues) and [design budget transactions](https://qpayee.com/design/transactions).
 
-**COLLECTIVE**: The happiest people here tend to be rigorous, generous people who love group feedback on Discord and want to lead a project and take responsibility for it at a high level. We were founded in 2015 and are on a path to [co-governance of the platform with the community](http://opencollective.com/e2c).
+**COLLECTIVE**: The happiest people here tend to be rigorous, generous people who love group feedback on Discord and want to lead a project and take responsibility for it at a high level. We were founded in 2015 and are on a path to [co-governance of the platform with the community](http://qpayee.com/e2c).
 
 ### Tools
 
@@ -221,7 +221,7 @@ Watch this video about what we do and why we are passionate about it:
 
 Like the movements that we support, we value openness and transparency. We strive to create inclusive, respectful and sustainable communities and we're 100% open source.
 
-If you want to know more about us, join our open [Discord](https://discord.opencollective.com), read [our blog](https://blog.opencollective.com), and check out the [Open Collective Way](https://docs.opencollective.com/help/about/the-open-collective-way) to understand our values and how we work.
+If you want to know more about us, join our open [Discord](https://discord.qpayee.com), read [our blog](https://blog.qpayee.com), and check out the [Open Collective Way](https://docs.qpayee.com/help/about/the-open-collective-way) to understand our values and how we work.
 
 We are a fully remote team that loves distributed collaboration around the world: Spain, France, Belgium, Germany, Romania, UK, US, Canada, Mexico, Brazil, India, New Zealand. This start-up culture is truly different – one of care, listening, rigor, and autonomy within collaboration. If you are used to cut-throat dynamics and overwork, you will be happy to find another way is possible.
 
@@ -258,7 +258,7 @@ We are looking for a senior "full-stack" software engineer who’s excited about
 
 ## Interested?
 
-Please [email us](mailto:info@opencollective.com) with "Senior Software Engineer" as subject.
+Please [email us](mailto:info@qpayee.com) with "Senior Software Engineer" as subject.
 
 Your message should be convincing enough for us to consider you and move to the next stage. Ideally, we want you to cover the following:
 

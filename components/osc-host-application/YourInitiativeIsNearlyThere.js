@@ -59,8 +59,8 @@ const YourInitiativeIsNearlyThere = () => (
         <Link href="/help">
           <FormattedMessage id="community.support" defaultMessage="Support" />
         </Link>
-        <Link href="https://discord.opencollective.com/">Discord</Link>
-        <Link href="https://blog.opencollective.com/">
+        <Link href="https://discord.qpayee.com/">Discord</Link>
+        <Link href="https://blog.qpayee.com/">
           <FormattedMessage id="company.blog" defaultMessage="Blog" />
         </Link>
       </Container>

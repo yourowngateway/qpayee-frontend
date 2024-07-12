@@ -449,7 +449,7 @@ const CreateCollectiveMiniForm = ({
                     <Field
                       as={StyledInput}
                       {...inputProps}
-                      placeholder="e.g., opencollective.com"
+                      placeholder="e.g., qpayee.com"
                       width="100%"
                       data-cy="mini-form-website-field"
                     />

@@ -18,7 +18,7 @@ const ApplicationDescription = () => (
         defaultMessage="We have created the {osclink}, a non-profit umbrella organization, to serve the open source community. To join, you need to meet our {criterialink}."
         values={{
           osclink: (
-            <StyledLink href="https://opencollective.com/opensource" openInNewTab color="purple.500">
+            <StyledLink href="https://qpayee.com/opensource" openInNewTab color="purple.500">
               Open Source Collective
             </StyledLink>
           ),

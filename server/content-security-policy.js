@@ -15,8 +15,8 @@ const COMMON_DIRECTIVES = {
     process.env.NEXT_IMAGES_URL,
     'data:',
     '*.paypal.com',
-    'opencollective.com', // for widgets on /admin/export
-    'blog.opencollective.com', // used to easily link images in static pages
+    'qpayee.com', // for widgets on /admin/export
+    'blog.qpayee.com', // used to easily link images in static pages
     'blob:', // For upload images previews
     'i.ytimg.com', // For youtube embeds
   ].filter(Boolean),
@@ -76,7 +76,7 @@ const COMMON_DIRECTIVES = {
     'blob:', // For expense invoice previews in the modal, as they're rendered in a blob
     'www.youtube.com',
     'www.youtube-nocookie.com',
-    'opencollective.com',
+    'qpayee.com',
     'anchor.fm',
     'podcasters.spotify.com',
     'player.vimeo.com',
@@ -91,7 +91,7 @@ const COMMON_DIRECTIVES = {
     'https://challenges.cloudflare.com',
     'https://www.google.com',
   ],
-  objectSrc: ['opencollective.com'],
+  objectSrc: ['qpayee.com'],
 };
 
 const generateDirectives = customValues => {

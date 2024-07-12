@@ -127,7 +127,7 @@ const MoreFeatures = () => (
         width="100%"
         buttonStyle="marketingSecondary"
         buttonSize="medium"
-        href="https://docs.opencollective.com/help/"
+        href="https://docs.qpayee.com/help/"
         fontWeight="500"
       >
         <FormattedMessage defaultMessage="Learn more" id="TdTXXf" />

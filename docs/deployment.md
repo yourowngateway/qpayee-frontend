@@ -32,7 +32,7 @@ git remote add staging https://git.heroku.com/oc-staging-frontend.git
 npm run deploy:staging
 ```
 
-URL: https://staging.opencollective.com/
+URL: https://staging.qpayee.com/
 
 ## Production (heroku)
 
@@ -44,11 +44,11 @@ git remote add production https://git.heroku.com/oc-prod-frontend.git
 npm run deploy:production
 ```
 
-URL: https://opencollective.com/
+URL: https://qpayee.com/
 
 ## Rollback Deployment to Previous State
 
-If something goes wrong, you can easily rollback the deployment with the following commands. 
+If something goes wrong, you can easily rollback the deployment with the following commands.
 
 ```bash
 heroku releases --app oc-prod-frontend
@@ -60,11 +60,11 @@ This will give an output of all the Heroku releases. Something like,
 
 ```bash
 === opencollective-prod-api Releases - Current: v1574
-v1574  Dep…         abc@opencollective.com        2021/07/21 11:09:08 -0700 (~ 26m ago)
-v1573  Dep…         def@opencollective.com        2021/07/16 10:11:50 -0700
-v1572  Dep…         ghi@opencollective.com        2021/07/15 08:23:19 -0700
-v1571  Dep…         jkl@opencollective.com        2021/07/14 09:27:05 -0700
-v1570  Dep…         mno@opencollective.com        2021/07/13 18:08:05 -0700
+v1574  Dep…         abc@qpayee.com        2021/07/21 11:09:08 -0700 (~ 26m ago)
+v1573  Dep…         def@qpayee.com        2021/07/16 10:11:50 -0700
+v1572  Dep…         ghi@qpayee.com        2021/07/15 08:23:19 -0700
+v1571  Dep…         jkl@qpayee.com        2021/07/14 09:27:05 -0700
+v1570  Dep…         mno@qpayee.com        2021/07/13 18:08:05 -0700
 ```
 
 Now to rollback the latest deployment all you got to do is:

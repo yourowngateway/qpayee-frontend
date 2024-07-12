@@ -214,11 +214,11 @@ const Pricing = () => {
                     values={{
                       ...I18nFormatters,
                       IndependentCollectiveLink: getI18nLink({
-                        href: 'https://docs.opencollective.com/help/independent-collectives',
+                        href: 'https://docs.qpayee.com/help/independent-collectives',
                         openInNewTab: true,
                       }),
                       FiscalHostLink: getI18nLink({
-                        href: 'https://opencollective.com/fiscal-hosting',
+                        href: 'https://qpayee.com/fiscal-hosting',
                         openInNewTab: true,
                       }),
                     }}
@@ -319,7 +319,7 @@ const Pricing = () => {
                     values={{
                       strong: I18nBold,
                       FiscalHostLink: getI18nLink({
-                        href: 'https://opencollective.com/become-a-fiscal-host',
+                        href: 'https://qpayee.com/become-a-fiscal-host',
                         openInNewTab: true,
                       }),
                     }}

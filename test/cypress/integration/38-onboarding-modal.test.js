@@ -36,7 +36,7 @@ describe('Onboarding modal', () => {
     cy.get('[data-cy="step-forward-button"]').click();
     // Add Github, Twitter, and website links
     cy.getByDataCy('social-link-inputs');
-    cy.focused().type('https://opencollective.com/testCollective');
+    cy.focused().type('https://qpayee.com/testCollective');
     cy.contains('Add social link').click();
     cy.focused().type('https://twitter.com/testCollective');
     cy.contains('Add social link').click();
@@ -49,7 +49,7 @@ describe('Onboarding modal', () => {
     // Check if the link have been added
     cy.get('a[rel~=me]')
       .first()
-      .should('have.attr', 'href', 'https://opencollective.com/testCollective')
+      .should('have.attr', 'href', 'https://qpayee.com/testCollective')
       .next()
       .should('have.attr', 'href', 'https://twitter.com/testCollective')
       .next()

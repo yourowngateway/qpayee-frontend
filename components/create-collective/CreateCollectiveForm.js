@@ -254,7 +254,7 @@ class CreateCollectiveForm extends React.Component {
                           <StyledInputGroup
                             onChange={e => setFieldValue('slug', e.target.value)}
                             {...field}
-                            prepend="opencollective.com/"
+                            prepend="qpayee.com/"
                             placeholder={placeholders.slug}
                           />
                         )}

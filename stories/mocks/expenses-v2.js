@@ -29,7 +29,7 @@ export const expenseInvoice = {
   payee: {
     id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/a65d6a6/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/a65d6a6/avatar.png',
     type: 'INDIVIDUAL',
     name: 'Benjamin Piouffle',
     location: {
@@ -40,7 +40,7 @@ export const expenseInvoice = {
   createdByAccount: {
     id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/a65d6a6/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/a65d6a6/avatar.png',
     type: 'INDIVIDUAL',
     name: 'Benjamin Piouffle',
   },
@@ -73,7 +73,7 @@ export const expenseReceipt = {
   payee: {
     id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/a65d6a6/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/a65d6a6/avatar.png',
     type: 'INDIVIDUAL',
     name: 'Benjamin Piouffle',
     location: {
@@ -84,7 +84,7 @@ export const expenseReceipt = {
   createdByAccount: {
     id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
     slug: 'betree',
-    imageUrl: 'https://images-staging.opencollective.com/betree/a65d6a6/avatar.png',
+    imageUrl: 'https://images-staging.qpayee.com/betree/a65d6a6/avatar.png',
     type: 'INDIVIDUAL',
     name: 'Benjamin Piouffle',
   },
@@ -105,7 +105,7 @@ export const expensesList = [
       id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
       type: 'INDIVIDUAL',
       slug: 'betree',
-      imageUrl: 'https://images-staging.opencollective.com/betree/46b07b0/avatar/80.png',
+      imageUrl: 'https://images-staging.qpayee.com/betree/46b07b0/avatar/80.png',
       __typename: 'Individual',
     },
     createdByAccount: {
@@ -131,7 +131,7 @@ export const expensesList = [
       id: 'z0w8xzmn-3lkqp5zx-pzbd4ea9-o6vryg7p',
       type: 'ORGANIZATION',
       slug: 'evil-corp',
-      imageUrl: 'https://images-staging.opencollective.com/evil-corp/logo/80.png',
+      imageUrl: 'https://images-staging.qpayee.com/evil-corp/logo/80.png',
       __typename: 'Organization',
     },
     createdByAccount: {
@@ -157,7 +157,7 @@ export const expensesList = [
       id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
       type: 'INDIVIDUAL',
       slug: 'betree',
-      imageUrl: 'https://images-staging.opencollective.com/betree/46b07b0/avatar/80.png',
+      imageUrl: 'https://images-staging.qpayee.com/betree/46b07b0/avatar/80.png',
       __typename: 'Individual',
     },
     createdByAccount: {
@@ -182,7 +182,7 @@ export const expensesList = [
       id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
       type: 'INDIVIDUAL',
       slug: 'betree',
-      imageUrl: 'https://images-staging.opencollective.com/betree/46b07b0/avatar/80.png',
+      imageUrl: 'https://images-staging.qpayee.com/betree/46b07b0/avatar/80.png',
       __typename: 'Individual',
     },
     createdByAccount: {
@@ -207,7 +207,7 @@ export const expensesList = [
       id: 'v6r0gonw-x8kv75ml-74j9z3yq-emla4pdy',
       type: 'INDIVIDUAL',
       slug: 'betree',
-      imageUrl: 'https://images-staging.opencollective.com/betree/46b07b0/avatar/80.png',
+      imageUrl: 'https://images-staging.qpayee.com/betree/46b07b0/avatar/80.png',
       __typename: 'Individual',
     },
     createdByAccount: {

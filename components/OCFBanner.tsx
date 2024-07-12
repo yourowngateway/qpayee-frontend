@@ -64,7 +64,7 @@ const OCFCollectiveAdminsBannerMessage = ({ account, newAccount, isCentered, hid
           another Fiscal Host by the 30th of September 2024.{' '}
           <StyledLink
             openInNewTab
-            href="https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/"
+            href="https://blog.qpayee.com/open-collective-official-statement-ocf-dissolution/"
           >
             Read more about the dissolution of Open Collective Foundation
           </StyledLink>

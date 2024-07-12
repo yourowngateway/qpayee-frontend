@@ -200,7 +200,7 @@ const RequestVirtualCardModal = props => {
                     link: getI18nLink({
                       as: Link,
                       openInNewTab: true,
-                      href: 'https://docs.opencollective.com/help/expenses-and-getting-paid/virtual-cards',
+                      href: 'https://docs.qpayee.com/help/expenses-and-getting-paid/virtual-cards',
                     }),
                   }}
                 />

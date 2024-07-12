@@ -26,8 +26,7 @@ export const paypal = {
     payerID: 'XXXXXXXXXXXXXX',
     paymentID: 'PAY-XXXXXXXXXXXXXX',
     intent: 'sale',
-    returnUrl:
-      'https://opencollective.com/?paymentId=PAY-XXXXXXXXXXXXXX&token=EC-XXXXXXXXXXXXXX&PayerID=XXXXXXXXXXXXXX',
+    returnUrl: 'https://qpayee.com/?paymentId=PAY-XXXXXXXXXXXXXX&token=EC-XXXXXXXXXXXXXX&PayerID=XXXXXXXXXXXXXX',
   },
   monthlyLimitPerMember: null,
   service: 'PAYPAL',

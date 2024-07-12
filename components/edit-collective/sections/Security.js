@@ -214,8 +214,8 @@ const Security = ({ collective }) => {
               openInNewTab
               href={
                 data.account.isHost
-                  ? 'https://docs.opencollective.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts'
-                  : 'https://docs.opencollective.com/help/product/two-factor-authentication'
+                  ? 'https://docs.qpayee.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts'
+                  : 'https://docs.qpayee.com/help/product/two-factor-authentication'
               }
             >
               <span>

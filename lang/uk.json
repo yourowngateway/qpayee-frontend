@@ -2331,7 +2331,7 @@
   "lPdsgW": "Previous {timeUnit, select, MONTH {month} QUARTER {quarter} YEAR {year} other {period}}",
   "LqD2Po": "External reference code for this contribution. This is usually a reference number from the contributor accounting system.",
   "lRbFqE": "Unapproved expense <Expense>{expenseDescription}</Expense> from <FromAccount></FromAccount> to <Account></Account>",
-  "LrBotK": "Open Collective is a legal and financial toolbox for groups. It’s a fundraising + legal status + money management platform for your community. What do you want to do?",
+  "LrBotK": "QPayee is a legal and financial toolbox for groups. It’s a fundraising + legal status + money management platform for your community. What do you want to do?",
   "LseLoM": "Spam",
   "lSFdN4": "Legal Documents",
   "LSsYSm": "Create Agreement",

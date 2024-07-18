@@ -65,7 +65,7 @@ const Footer = () => {
             <div className="flex flex-col items-start gap-4 md:flex-row md:items-center">
               <Link href="/home">
                 <Image
-                  src="/static/images/opencollectivelogo-footer-n.svg"
+                  src="/static/images/logotype.svg"
                   alt="QPayee"
                   height={28}
                   width={167}
@@ -133,7 +133,7 @@ const Footer = () => {
           <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
             <Link href="/">
               <Image
-                src="/static/images/opencollectivelogo-footer-n.svg"
+                src="/static/images/logotype.svg"
                 alt="QPayee"
                 height={28}
                 width={167}

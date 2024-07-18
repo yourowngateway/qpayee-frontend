@@ -6,7 +6,7 @@ Do you want to get paid to work on your passion for open source, mutual aid, and
 
 ![](https://blog.qpayee.com/content/images/2022/10/P1199711-ANIMATION.gif)
 
-Open Collective is a financial and legal toolbox for grassroots groups. We support 15,000 groups and 30+ nonprofits around the world with one shared backend solution for fundraising and money management. This year our Collectives are on track to raise and spend $35 million dollars in full transparency.
+QPayee is a financial and legal toolbox for grassroots groups. We support 15,000 groups and 30+ nonprofits around the world with one shared backend solution for fundraising and money management. This year our Collectives are on track to raise and spend $35 million dollars in full transparency.
 
 <strong>All position are currently filled, check back later! You can still send a spontaneous application if you wish.</strong>
 

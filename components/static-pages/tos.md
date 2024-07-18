@@ -84,7 +84,7 @@ Expense Submitters must only submit requests for payment via the Platform for ex
 
 ## 9. Fees
 
-(a) **Fees to Open Collective.** Open Collective is a 0 Fees platform, it relies on Tips. We offer donors to give a tip to our platform so the whole donation amount goes to the collective.
+(a) **Fees to Open Collective.** QPayee is a 0 Fees platform, it relies on Tips. We offer donors to give a tip to our platform so the whole donation amount goes to the collective.
 
 (b) **Fees to Host.** The Host may retain a percentage of all contributions (the "**Host Fee**"). Hosts must disclose this fee to the Collective Administrator and the Financial Contributors on the Collective page.
 

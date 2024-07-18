@@ -3542,7 +3542,7 @@ export const loggedInUser = new LoggedInUser({
         slug: 'europe',
         type: 'ORGANIZATION',
         isIncognito: false,
-        name: 'Open Collective Europe ASBL',
+        name: 'QPayee Europe ASBL',
         currency: 'EUR',
         isHost: true,
         endsAt: null,
@@ -3573,7 +3573,7 @@ export const loggedInUser = new LoggedInUser({
                 recurring: false,
               },
               instructions:
-                'Please make a bank transfer for the amount of {amount} to the bank account: IBAN: BE36 3630 1559 2081 with the following communication: {collective} order {OrderId}. If your bank requires the address of the recipient, you can enter: "Open Collective Europe ASBL / {{collective}}, Rue des bannieres 22, 1150 Brussels, Belgium". Please note that it will take a few days to process your payment!',
+                'Please make a bank transfer for the amount of {amount} to the bank account: IBAN: BE36 3630 1559 2081 with the following communication: {collective} order {OrderId}. If your bank requires the address of the recipient, you can enter: "QPayee Europe ASBL / {{collective}}, Rue des bannieres 22, 1150 Brussels, Belgium". Please note that it will take a few days to process your payment!',
             },
           },
         },

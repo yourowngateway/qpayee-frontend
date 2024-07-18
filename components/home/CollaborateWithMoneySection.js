@@ -29,8 +29,7 @@ const messages = defineMessages({
   },
   'home.communityEngagement.description': {
     id: 'home.communityEngagement.description',
-    defaultMessage:
-      'Post updates, create events, connect your website, or use your Open Collective page with your custom url.',
+    defaultMessage: 'Post updates, create events, connect your website, or use your QPayee with your custom url.',
   },
   'home.reporting': {
     id: 'home.reporting',
@@ -39,7 +38,7 @@ const messages = defineMessages({
   'home.reporting.description': {
     id: 'home.reporting.description',
     defaultMessage:
-      'No more messy spreadsheets. Open Collective updates live to make reporting easy. Auditors and grantmakers love us!',
+      'No more messy spreadsheets. QPayee updates live to make reporting easy. Auditors and grantmakers love us!',
   },
   'home.accounting': {
     id: 'home.accounting',

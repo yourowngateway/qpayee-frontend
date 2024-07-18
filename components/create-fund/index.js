@@ -49,14 +49,14 @@ class CreateFund extends Component {
     if (this.props.router.query.category === 'europe') {
       return {
         slug: 'europe',
-        name: 'Open Collective Europe',
+        name: 'QPayee Europe',
         termsUrl: 'https://docs.qpayee.com/oceurope/getting-started/our-terms-and-conditions',
       };
     }
     if (this.props.router.query.category === 'oce-foundation') {
       return {
         slug: 'oce-foundation',
-        name: 'Open Collective Europe Foundation',
+        name: 'QPayee Europe Foundation',
         termsUrl: 'https://docs.qpayee.com/oceurope/getting-started/our-terms-and-conditions',
       };
     }

@@ -74,7 +74,7 @@ const CreateFundCategoryPicker = () => {
                 <P textAlign="center">
                   It will be hosted by
                   <br />
-                  Open Collective Europe Foundation
+                  QPayee Europe Foundation
                 </P>
               </Flex>
             </Container>

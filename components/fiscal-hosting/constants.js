@@ -49,7 +49,7 @@ export const HOSTS = [
   },
   {
     id: 'OCE',
-    name: 'Open Collective Europe',
+    name: 'QPayee Europe',
     location: ' 🇪🇺 Europe',
     collectivePath: '/europe/apply',
     bgImage: 'oce-bg',

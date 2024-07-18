@@ -97,7 +97,7 @@ const featuredHosts = [
   },
   {
     id: 'OCE',
-    name: 'Open Collective Europe',
+    name: 'QPayee Europe',
     collectivePageLink: '/europe',
     imageUrl: 'https://images.qpayee.com/europe/019a512/logo/256.png',
   },

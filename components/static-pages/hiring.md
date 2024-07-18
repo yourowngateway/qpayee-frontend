@@ -73,7 +73,7 @@ Our international, fully-remote, highly-collaborative team currently includes me
 
 ### The support team
 
-The support team at Open Collective is currently based in Indonesia, Canada, the UK, and the US. We are responsible for providing exceptional customer service and support to our users, ensuring that their inquiries and concerns are resolved in a timely and professional manner. We are a new and growing team, and we need to your help as we continually improve and optimize our user support systems, utilizing performance analytic reports to inform strategic decision-making and reduce workload and ticket response times, while - of course - continuing to provide quality customer support.
+The support team at QPayee is currently based in Indonesia, Canada, the UK, and the US. We are responsible for providing exceptional customer service and support to our users, ensuring that their inquiries and concerns are resolved in a timely and professional manner. We are a new and growing team, and we need to your help as we continually improve and optimize our user support systems, utilizing performance analytic reports to inform strategic decision-making and reduce workload and ticket response times, while - of course - continuing to provide quality customer support.
 
 A few more notes about our team:
 

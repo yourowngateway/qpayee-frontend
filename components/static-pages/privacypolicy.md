@@ -69,7 +69,7 @@ Open Collective takes reasonable measures to help protect information about you 
 
 ## Transfer of Information to the U.S. and Other Countries
 
-Open Collective is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
+QPayee is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
 
 ## Your Choices
 
@@ -89,7 +89,7 @@ You may opt out of receiving promotional or notification emails from Open Collec
 
 ### Compliance
 
-Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives (like most other crowdfunding platforms). Companies that sponsors Collectives don't get access to private information. Only the admins of the Collective (core contributors) and of the organization that is legally hosting the Collectives (fiscal sponsor) get access to your email address. We don't store credit card information on our servers (we only store a token if you have decided to save it to your profile). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
+QPayee is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives (like most other crowdfunding platforms). Companies that sponsors Collectives don't get access to private information. Only the admins of the Collective (core contributors) and of the organization that is legally hosting the Collectives (fiscal sponsor) get access to your email address. We don't store credit card information on our servers (we only store a token if you have decided to save it to your profile). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
 
 ## Contact Us
 

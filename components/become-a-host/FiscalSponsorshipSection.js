@@ -45,7 +45,7 @@ const FiscalSponsorship = () => {
           <MainDescription textAlign={['center', null, 'left']}>
             <FormattedMessage
               id="becomeAHost.description"
-              defaultMessage="Open Collective is purpose-built to streamline your processes, reduce overhead, increase transparency, and enable your organization to hold and manage funds for more projects in less time. <learnMoreLink>Learn more</learnMoreLink>."
+              defaultMessage="QPayee is purpose-built to streamline your processes, reduce overhead, increase transparency, and enable your organization to hold and manage funds for more projects in less time. <learnMoreLink>Learn more</learnMoreLink>."
               values={{
                 learnMoreLink: getI18nLink({
                   href: 'https://docs.qpayee.com/help/fiscal-hosts/become-a-fiscal-host',

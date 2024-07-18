@@ -135,10 +135,12 @@ const TopBar = ({
     >
       <Link href="/">
         <Flex alignItems="center">
-          <Image width={32} height={32} src="/static/images/logoimage.png" alt="QPayee" />
+          <Hide lg xl>
+            <Image width={32} height={32} src="/static/images/logoimage.png" alt="QPayee" />
+          </Hide>
           <Hide xs sm md>
             <Box mx={2}>
-              <Image height={21} width={141} src="/static/images/logotype.svg" alt="QPayee" />
+              <Image height={21} width={121} src="/static/images/logotype.svg" alt="QPayee" />
             </Box>
           </Hide>
         </Flex>

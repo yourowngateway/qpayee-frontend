@@ -29,7 +29,7 @@ export const Footer = ({ account }) => {
         <div className="flex justify-between">
           <Link href="/" className="flex items-center gap-1">
             <span className="text-xs font-semibold">Powered by</span>
-            <img className="h-5" src="/static/images/logotype.svg" alt="Open Collective" />
+            <img className="h-5" src="/static/images/logotype.svg" alt="QPayee" />
           </Link>
           <div className="flex items-center gap-4 text-sm text-slate-600">
             <Link className="hover:text-foreground" href="/help">

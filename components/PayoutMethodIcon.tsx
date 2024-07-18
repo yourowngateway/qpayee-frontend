@@ -14,7 +14,7 @@ export function PayoutMethodIcon(props: { payoutMethod: Omit<PayoutMethod, 'id'>
       return (
         <Image
           className="inline-block"
-          alt="Open Collective"
+          alt="QPayee"
           src="/static/images/oc-logo-watercolor-256.png"
           height={16}
           width={16}

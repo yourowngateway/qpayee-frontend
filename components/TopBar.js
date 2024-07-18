@@ -135,10 +135,10 @@ const TopBar = ({
     >
       <Link href="/">
         <Flex alignItems="center">
-          <Image width={32} height={32} src="/static/images/oc-logo-watercolor-256.png" alt="Open Collective" />
+          <Image width={32} height={32} src="/static/images/logoimage.png" alt="QPayee" />
           <Hide xs sm md>
             <Box mx={2}>
-              <Image height={21} width={141} src="/static/images/logotype.svg" alt="Open Collective" />
+              <Image height={21} width={141} src="/static/images/logotype.svg" alt="QPayee" />
             </Box>
           </Hide>
         </Flex>
